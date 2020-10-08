@@ -1034,6 +1034,986 @@
         "name": "chest_big.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SWORD2big22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SWORD2big22.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SWORD2big22-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SWORD2big22-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/slash/BODY_human-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\slash\\BODY_human-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/slash/BODY_human-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\slash\\BODY_human-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/slash/BODY_human-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\slash\\BODY_human-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/slash/BODY_human.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\slash\\BODY_human.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/slash/BODY_human-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\slash\\BODY_human-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/walkcycle/BELT_leather.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\walkcycle\\BELT_leather.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/walkcycle/BELT_rope.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\walkcycle\\BELT_rope.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/walkcycle/FEET_shoes_brown.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\walkcycle\\FEET_shoes_brown.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/walkcycle/HEAD_hair_blonde.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\walkcycle\\HEAD_hair_blonde.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/walkcycle/LEGS_pants_greenish.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\walkcycle\\LEGS_pants_greenish.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/walkcycle/WEAPON_shield_cutout_body.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\walkcycle\\WEAPON_shield_cutout_body.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/walkcycle/BODY_male.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\walkcycle\\BODY_male.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "idle-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/BODY_male.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\BODY_male.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/slash/WEAPON_dagger.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\slash\\WEAPON_dagger.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "idle-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "idle-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/thrust/WEAPON_spear.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\thrust\\WEAPON_spear.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/thrust/BELT_leather.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\thrust\\BELT_leather.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/thrust/BODY_animation.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\thrust\\BODY_animation.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/thrust/FEET_shoes_brown.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\thrust\\FEET_shoes_brown.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/thrust/HEAD_hair_blonde.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\thrust\\HEAD_hair_blonde.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/thrust/LEGS_pants_greenish.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\thrust\\LEGS_pants_greenish.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/thrust/WEAPON_shield_cutout_chain_armor_helmet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\thrust\\WEAPON_shield_cutout_chain_armor_helmet.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/thrust/idle-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\thrust\\idle-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/thrust/idle-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\thrust\\idle-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/thrust/idle-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\thrust\\idle-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/thrust/WEAPON_shield_cutout_body.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\thrust\\WEAPON_shield_cutout_body.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/thrust/idle-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\thrust\\idle-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/thrust/idle-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\thrust\\idle-1-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/thrust/idle-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\thrust\\idle-2-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "lpc_entry/png/thrust/idle-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lpc_entry\\png\\thrust\\idle-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-1-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-1-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-1-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-1-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-1-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-1-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-1-6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-1-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-1-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-1-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-1-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walking-1-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walking-1-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "idle-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "idle-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle-1-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/idle-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\idle-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-1-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-1-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-1-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-1-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-1-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-1-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-1-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-1-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-1-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusIdle/idle-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusIdle\\idle-1-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusWalking/walking-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusWalking\\walking-1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusWalking/walking-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusWalking\\walking-1-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusWalking/walking-1-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusWalking\\walking-1-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusWalking/walking-1-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusWalking\\walking-1-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusWalking/walking-1-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusWalking\\walking-1-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusWalking/walking-1-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusWalking\\walking-1-6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusWalking/walking-1-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusWalking\\walking-1-7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusWalking/walking-1-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusWalking\\walking-1-8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusWalking/walking-1-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusWalking\\walking-1-9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusWalking/walking-1-10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusWalking\\walking-1-10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusWalking/walking-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusWalking\\walking-2-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusWalking/walking-3-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusWalking\\walking-3-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusWalking/walking-4-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusWalking\\walking-4-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusWalking/walking-5-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusWalking\\walking-5-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusWalking/walking-6-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusWalking\\walking-6-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusWalking/walking-7-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusWalking\\walking-7-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusWalking/walking-8-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusWalking\\walking-8-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusWalking/walking-9-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusWalking\\walking-9-0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-1-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-1-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-2-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-2-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-3-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-3-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-4-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-4-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-5-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-5-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-6-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-6-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-7-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-7-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-8-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-8-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-1-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-1-9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-2-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-3-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-4-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-4-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-5-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-5-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-6-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-6-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-7-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-7-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "OdysseusSpear/spear-8-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "OdysseusSpear\\spear-8-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "disablePreload": false,
+        "file": "dialogue.json",
+        "kind": "json",
+        "metadata": "",
+        "name": "dialogue.json",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "flatLight23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "flatLight23.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1066,12 +2046,16 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.61
+        "zoomFactor": 0.634
       },
       "objectsGroups": [],
       "variables": [
         {
           "name": "Score",
+          "value": "0"
+        },
+        {
+          "name": "SwordTimer",
           "value": "0"
         }
       ],
@@ -1127,14 +2111,14 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 90,
+          "height": 100,
           "layer": "",
           "locked": false,
           "name": "Odysseus",
           "persistentUuid": "7243765b-4d88-44f8-9f79-51351453eeca",
-          "width": 45,
-          "x": -357,
-          "y": 652,
+          "width": 60,
+          "x": -343,
+          "y": 641,
           "zOrder": 9,
           "numberProperties": [
             {
@@ -1196,22 +2180,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 1222,
-          "layer": "",
-          "locked": false,
-          "name": "NewObject2",
-          "persistentUuid": "2b0629fc-c5aa-4144-9889-8ba0e3e85a1a",
-          "width": 1739,
-          "x": -410,
-          "y": -310,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 1070,
           "layer": "",
           "locked": true,
@@ -1266,8 +2234,8 @@
           "name": "halfyellowtile",
           "persistentUuid": "16c55308-3f0f-460d-bcb2-37a4bd21f707",
           "width": 510,
-          "x": -337,
-          "y": 250,
+          "x": -357,
+          "y": 439,
           "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
@@ -2391,6 +3359,54 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 60,
+          "layer": "",
+          "locked": false,
+          "name": "halfgreytile",
+          "persistentUuid": "25f906c8-2838-48c9-a410-d364b7347c74",
+          "width": 509,
+          "x": -358,
+          "y": 253,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 53,
+          "layer": "GUI",
+          "locked": false,
+          "name": "Dialogue",
+          "persistentUuid": "91e4d1a8-0f31-4e4f-8228-aa2b667c948e",
+          "width": 211,
+          "x": 95,
+          "y": 522,
+          "zOrder": 72,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 41,
+          "layer": "",
+          "locked": false,
+          "name": "next",
+          "persistentUuid": "4d6a5db5-6bda-453c-a8e5-dfd2204edec4",
+          "width": 39,
+          "x": 29,
+          "y": 896,
+          "zOrder": 73,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -2689,309 +3705,6 @@
               "canBeGrabbed": true,
               "platformType": "NormalPlatform",
               "yGrabOffset": 0
-            }
-          ]
-        },
-        {
-          "name": "Odysseus",
-          "tags": "",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [
-            {
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "acceleration": 1500,
-              "canGrabPlatforms": false,
-              "deceleration": 1500,
-              "gravity": 1000,
-              "ignoreDefaultControls": false,
-              "jumpSpeed": 600,
-              "jumpSustainTime": 0.2,
-              "ladderClimbingSpeed": 150,
-              "maxFallingSpeed": 700,
-              "maxSpeed": 250,
-              "roundCoordinates": true,
-              "slopeMaxAngle": 60,
-              "xGrabTolerance": 10,
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "idle",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "odysseys.idle.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "walking",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.09,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "odysseus_walk.1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "od_walk_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "od_walk_3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "od_walk_4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "od_walk_5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "od_walk_6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "od_walk_7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "jump",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.1,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "odjump1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "odjump6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "odjump4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "odjump5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "odjump6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "odjump1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
             }
           ]
         },
@@ -4024,9 +4737,732 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Sword",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "SWORD2big22",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "SWORD2big22-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 34,
+                            "y": 29.5
+                          },
+                          {
+                            "x": 74,
+                            "y": 4.5
+                          },
+                          {
+                            "x": 49,
+                            "y": 44.5
+                          },
+                          {
+                            "x": 8,
+                            "y": 67.5
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Odysseus",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "OdysseusIdle\\idle-1-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "walking",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.09,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "OdysseusWalking\\walking-1-10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "OdysseusWalking\\walking-2-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "OdysseusWalking\\walking-3-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "OdysseusWalking\\walking-4-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "OdysseusWalking\\walking-5-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "OdysseusWalking\\walking-6-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "OdysseusWalking\\walking-7-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "OdysseusWalking\\walking-8-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "OdysseusWalking\\walking-9-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "jump",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "odjump1.png",
+                      "points": [
+                        {
+                          "name": "SwordPoint",
+                          "x": 1.14397,
+                          "y": 2.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 1.5,
+                        "y": 2
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 4.00112,
+                        "y": 20
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "odjump6.png",
+                      "points": [
+                        {
+                          "name": "SwordPoint",
+                          "x": 1.14397,
+                          "y": 2.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 1.5,
+                        "y": 2
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 4.00112,
+                        "y": 20
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "odjump4.png",
+                      "points": [
+                        {
+                          "name": "SwordPoint",
+                          "x": 1.14397,
+                          "y": 2.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 1.5,
+                        "y": 2
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 4.00112,
+                        "y": 20
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "odjump5.png",
+                      "points": [
+                        {
+                          "name": "SwordPoint",
+                          "x": 1.14397,
+                          "y": 2.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 1.5,
+                        "y": 2
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 4.00112,
+                        "y": 20
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "odjump6.png",
+                      "points": [
+                        {
+                          "name": "SwordPoint",
+                          "x": 1.14397,
+                          "y": 2.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 1.5,
+                        "y": 2
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 4.00112,
+                        "y": 20
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "odjump1.png",
+                      "points": [
+                        {
+                          "name": "SwordPoint",
+                          "x": 1.14397,
+                          "y": 2.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 1.5,
+                        "y": 2
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 4.00112,
+                        "y": 20
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "spear",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "OdysseusSpear\\spear-1-0.png",
+                      "points": [
+                        {
+                          "name": "SpearPoint",
+                          "x": 58,
+                          "y": 22
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "OdysseusSpear\\spear-2-1.png",
+                      "points": [
+                        {
+                          "name": "SpearPoint",
+                          "x": 50,
+                          "y": 31.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "OdysseusSpear\\spear-3-1.png",
+                      "points": [
+                        {
+                          "name": "SpearPoint",
+                          "x": 49.5,
+                          "y": 29.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "OdysseusSpear\\spear-4-1.png",
+                      "points": [
+                        {
+                          "name": "SpearPoint",
+                          "x": 47,
+                          "y": 27.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "OdysseusSpear\\spear-5-1.png",
+                      "points": [
+                        {
+                          "name": "SpearPoint",
+                          "x": 49.5,
+                          "y": 27
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "OdysseusSpear\\spear-6-1.png",
+                      "points": [
+                        {
+                          "name": "SpearPoint",
+                          "x": 50,
+                          "y": 31.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "OdysseusSpear\\spear-7-1.png",
+                      "points": [
+                        {
+                          "name": "SpearPoint",
+                          "x": 50,
+                          "y": 31.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "OdysseusSpear\\spear-8-1.png",
+                      "points": [
+                        {
+                          "name": "SpearPoint",
+                          "x": 50,
+                          "y": 31.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Dialogue",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "|",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "name": "next",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "flatLight23.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "<Camera/Setup>",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CentreCamera"
+              },
+              "parameters": [
+                "",
+                "Odysseus",
+                "no",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
         {
           "disabled": false,
           "folded": false,
@@ -4063,6 +5499,27 @@
                 "Right"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "DialogueTree::LoadDialogueFromJsonFile"
+              },
+              "parameters": [
+                "",
+                "dialogue.json"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "DialogueTree::StartDialogueFromBranch"
+              },
+              "parameters": [
+                "\"OpeningScene\""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -4075,11 +5532,269 @@
             {
               "type": {
                 "inverted": false,
-                "value": "KeyFromTextPressed"
+                "value": "DialogueTree::IsDialogueLineType"
+              },
+              "parameters": [
+                "\"text\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "Dialogue",
+                "=",
+                "DialogueTree::ClippedLineText()"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Timer"
+                  },
+                  "parameters": [
+                    "",
+                    "Variable(text_scroll_speed)",
+                    "\"text_scroll\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "DialogueTree::ScrollClippedText"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"text_speed\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "AnyKeyPressed"
+                  },
+                  "parameters": [
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "text_scroll_speed",
+                    "=",
+                    "0.05"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "next",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MouseButtonReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "DialogueTree::HasClippedTextScrollingCompleted"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "DialogueTree::GoToNextLine"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"text_finish\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Timer"
+                  },
+                  "parameters": [
+                    "",
+                    "3",
+                    "\"text_finish\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "next",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Dialogue",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "<Player>",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
               },
               "parameters": [
                 "",
-                "\"Left\""
+                "Right"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Odysseus",
+                "no"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Left"
               ],
               "subInstructions": []
             }
@@ -4095,59 +5810,29 @@
                 "yes"
               ],
               "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+            },
             {
               "type": {
                 "inverted": false,
-                "value": "KeyFromTextPressed"
+                "value": "MettreXY"
               },
               "parameters": [
-                "",
-                "\"Right\""
+                "Sword",
+                "=",
+                "Odysseus.X(\"SwordPoint\")-110",
+                "=",
+                "Odysseus.Y(\"SwordPoint\")"
               ],
               "subInstructions": []
-            }
-          ],
-          "actions": [
+            },
             {
               "type": {
                 "inverted": false,
                 "value": "FlipX"
               },
               "parameters": [
-                "Odysseus",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "CentreCamera"
-              },
-              "parameters": [
-                "",
-                "Odysseus",
-                "no",
-                "",
-                ""
+                "Sword",
+                "yes"
               ],
               "subInstructions": []
             }
@@ -4252,6 +5937,17 @@
                     "PlatformerObject"
                   ],
                   "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "b"
+                  ],
+                  "subInstructions": []
                 }
               ],
               "actions": [
@@ -4302,6 +5998,21 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "<Enemies>",
+          "comment2": ""
         },
         {
           "disabled": false,
@@ -4634,6 +6345,21 @@
         {
           "disabled": false,
           "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "<Ship>",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4802,6 +6528,21 @@
         {
           "disabled": false,
           "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "<OtherObjects>",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4948,6 +6689,21 @@
         {
           "disabled": false,
           "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "<Score>",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -4974,20 +6730,6 @@
               "parameters": [
                 "chest_2",
                 ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "coin.wav",
-                "",
-                "100",
-                "1"
               ],
               "subInstructions": []
             },
@@ -5053,20 +6795,6 @@
             {
               "type": {
                 "inverted": false,
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "coin.wav",
-                "",
-                "100",
-                "1"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "ModVarScene"
               },
               "parameters": [
@@ -5089,6 +6817,165 @@
               "subInstructions": []
             }
           ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "<Weapons>",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "b"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Odysseus",
+                "\"spear\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Odysseus",
+                    "Skeleton_1",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Skeleton_1",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "b"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Odysseus",
+                "\"spear\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Odysseus",
+                    "Skeleton_2",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Skeleton_2",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
           "events": []
         },
         {
@@ -5130,6 +7017,17 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "name": "UI",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 1702453580,
+          "ambientLightColorG": 1701470831,
+          "ambientLightColorR": 0,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "GUI",
           "visibility": true,
           "cameras": [],
           "effects": []
