@@ -13,7 +13,7 @@
     "macExecutableFilename": "",
     "orientation": "landscape",
     "packageName": "com.example.platformer",
-    "projectFile": "C:\\Users\\Igs\\Downloads\\Odysseus 11-10\\Odysseus\\platformer.json",
+    "projectFile": "C:\\Users\\kappa\\Pictures\\Odysseus\\platformer.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -2332,8 +2332,6 @@
           "variables": [],
           "behaviors": [
             {
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
               "canGrabPlatforms": false,
               "deceleration": 1500,
@@ -2344,8 +2342,10 @@
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
               "maxSpeed": 250,
+              "name": "PlatformerObject",
               "roundCoordinates": true,
               "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "xGrabTolerance": 10,
               "yGrabOffset": 0
             }
@@ -2417,10 +2417,10 @@
           "variables": [],
           "behaviors": [
             {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
               "canBeGrabbed": true,
+              "name": "Platform",
               "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
               "yGrabOffset": 0
             }
           ],
@@ -2464,10 +2464,10 @@
           "variables": [],
           "behaviors": [
             {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
               "canBeGrabbed": true,
+              "name": "Platform",
               "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
               "yGrabOffset": 0
             }
           ],
@@ -2550,10 +2550,10 @@
           "variables": [],
           "behaviors": [
             {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
               "canBeGrabbed": true,
+              "name": "Platform",
               "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
               "yGrabOffset": 0
             }
           ],
@@ -2597,10 +2597,10 @@
           "variables": [],
           "behaviors": [
             {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
               "canBeGrabbed": true,
+              "name": "Platform",
               "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
               "yGrabOffset": 0
             }
           ],
@@ -2646,10 +2646,10 @@
           "variables": [],
           "behaviors": [
             {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
               "canBeGrabbed": true,
+              "name": "Platform",
               "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
               "yGrabOffset": 0
             }
           ]
@@ -2662,10 +2662,10 @@
           "variables": [],
           "behaviors": [
             {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
               "canBeGrabbed": true,
+              "name": "Platform",
               "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
               "yGrabOffset": 0
             }
           ],
@@ -2768,10 +2768,10 @@
           "variables": [],
           "behaviors": [
             {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
               "canBeGrabbed": true,
+              "name": "Platform",
               "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
               "yGrabOffset": 0
             }
           ],
@@ -2834,10 +2834,10 @@
           "variables": [],
           "behaviors": [
             {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
               "canBeGrabbed": true,
+              "name": "Platform",
               "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
               "yGrabOffset": 0
             }
           ],
@@ -2980,10 +2980,10 @@
           "variables": [],
           "behaviors": [
             {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
               "canBeGrabbed": true,
+              "name": "Platform",
               "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
               "yGrabOffset": 0
             }
           ]
@@ -3164,10 +3164,10 @@
           "variables": [],
           "behaviors": [
             {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
               "canBeGrabbed": true,
+              "name": "Platform",
               "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
               "yGrabOffset": 0
             }
           ],
@@ -3265,10 +3265,10 @@
           "variables": [],
           "behaviors": [
             {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
               "canBeGrabbed": true,
+              "name": "Platform",
               "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
               "yGrabOffset": 0
             }
           ],
@@ -3314,10 +3314,10 @@
           "variables": [],
           "behaviors": [
             {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
               "canBeGrabbed": true,
+              "name": "Platform",
               "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
               "yGrabOffset": 0
             }
           ]
@@ -3369,10 +3369,10 @@
           "variables": [],
           "behaviors": [
             {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
               "canBeGrabbed": true,
+              "name": "Platform",
               "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
               "yGrabOffset": 0
             }
           ],
